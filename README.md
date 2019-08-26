@@ -1,3 +1,3 @@
-# swift-app-template
+# Swift application template
 
-A description of this package.
+[![Build Status](https://travis-ci.org/v-kolesnikov/swift-app-template.svg?branch=master)](https://travis-ci.org/v-kolesnikov/swift-app-template)
